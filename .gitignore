@@ -1,0 +1,10 @@
+venv/
+runs/
+dataset/images/
+dataset/labels/
+*.csv
+*.pkl
+__pycache__/
+*.pyc
+intrusion_detection/captures/
+person_detection/crowd_snapshots/
